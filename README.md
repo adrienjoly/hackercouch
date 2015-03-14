@@ -14,9 +14,8 @@ It’s like CouchSurfing, except CouchSurfing sucks. So does AirBnB, hostels and
 
 
 ## Crash on my couch
-I have no permanent couch at the moment. But if I would, I’d say something like this:
 
-* couch in Berlin-Kreuzberg, near cool spots like betahaus and c-base
+* I have a couch in my flat, in Montreuil, 10 minutes away from the best part of Paris, France.
 
 No need to limit length of stay or state interests, just check out people’s profiles, look at their code and discuss everything directly in the issue.
 
