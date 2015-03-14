@@ -5,7 +5,7 @@
 
 1. Fork this repository and put in your couch and/or travel info.
 2. Manually add »Issues« to your fork by clicking the »Admin« tab and enabling it there.
-3. [Search](https://github.com/search?utf8=%E2%9C%93&q=hackercouch+fork%3Atrue+in%3Areadme+france&type=Repositories&ref=searchresults) to find Hacker Couches (you can also specify a city).
+3. [Search](https://github.com/search?utf8=%E2%9C%93&q=hackercouch+fork%3Atrue+in%3Areadme+France&type=Repositories&ref=searchresults) to find Hacker Couches (you can also specify a city).
 4. To request a stay or invite fellow hackers, open an issue in the tracker. You can check out their profiles and look at their code and see where you can collaborate.
 5. **MEET AND HACK AND HAVE FUN!**
 6. Afterwards you can leave the other person a review in their issue tracker.
